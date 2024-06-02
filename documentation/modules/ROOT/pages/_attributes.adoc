@@ -3,7 +3,7 @@
 :branch: master
 :github-repo: https://github.com/redhat-scholars/argocd-tutorial/blob/{branch}
 :profile: gitops
-:minikube-version: v1.20.0
-:kubernetes-version: v1.20.2
-:argocd-version: v2.0.0
-:kustomize-version: v4.1.2
+:minikube-version: v1.33.1
+:kubernetes-version: v1.28.10
+:argocd-version: v2.11.2
+:kustomize-version: v5.4.2
